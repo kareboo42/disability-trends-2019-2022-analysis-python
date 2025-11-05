@@ -1,26 +1,21 @@
-# Disability Trends Analysis (2019–2022)
+# 🩺 Healthcare Trends Analysis
 
-This project analyzes CDC Chronic Disease Indicators data to explore trends among **adult females with any disability** across U.S. states from 2019–2022.
+This project explores chronic disease trends in the U.S. using data from the **CDC Chronic Disease Indicators** dataset.
 
-## Project Overview
-Using Python and pandas, this analysis examines patterns in disability prevalence over time and visualizes trends to understand possible changes in public health.
+## 📊 Project Overview
+- Cleaned and analyzed national chronic disease data (2019–2022)
+- Visualized trends in disability rates among adult females
+- Built pivot tables and plots using **Pandas** and **Matplotlib**
 
-## Tools Used
+## 🧠 Tools Used
 - Python
-- pandas
-- matplotlib
+- Pandas
+- Matplotlib
 - Jupyter Notebook
-- Excel
 
-## Key Insights
-- Disability prevalence among adult females showed variation across years.
-- Certain states had consistently higher rates.
-- Visual trends suggest possible factors for further study (e.g., healthcare access, socioeconomic patterns).
+## 📁 Files
+- `US_chronic_disease_indicator_analysis.ipynb` – main notebook
+- `US_chronic_disease_indicator_analysis.html` – web view of notebook
 
-## Files
-- `disability_trends_analysis.ipynb` — Jupyter Notebook with full code and results.
-- `U.S._Chronic_Disease_Indicators_final.xlsx` — Source dataset.
-- `graph_output.png` — (optional) exported line graph.
-
-##  About
-Created by **Karen Ayetiwa** as part of a data analysis project exploring U.S. public health trends.
+## 🌐 Data Source
+[CDC Chronic Disease Indicators](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators)
